@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.unsplash.com/photo-1531003300514-1976481c521e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A beautiful resort located on a tropical island. Enjoy the sun, sand, and sea.",
+        "rating": "4.5",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+      },
+      {
+        "id": "2",
+        "name": "Majestic Mountain Retreat",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A serene escape in the heart of the mountains. Perfect for hiking and nature lovers.",
+        "rating": "4.8",
+        "price": "200",
+        "duration": "5",
+        "location": "Rocky Mountains",
+        "category": "Mountains"
+      },
+      {
+        "id": "3",
+        "name": "Cosmopolitan City Getaway",
+        "image": "https://images.unsplash.com/photo-1549643276-fdf2fab574f5?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Explore the vibrant life of a bustling metropolis with world-class amenities.",
+        "rating": "4.7",
+        "price": "300",
+        "duration": "2",
+        "location": "New York City",
+        "category": "Cities"
+      },
+      {
+        "id": "4",
+        "name": "Enchanted Forest Cabin",
+        "image": "https://plus.unsplash.com/premium_photo-1686090450479-370d5ddf4de1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Stay in a cozy cabin surrounded by the magic of ancient forests and wildlife.",
+        "rating": "4.6",
+        "price": "180",
+        "duration": "4",
+        "location": "Black Forest",
+        "category": "Forests"
+      },
+      {
+        "id": "5",
+        "name": "Serene Lake House",
+        "image": "https://images.unsplash.com/photo-1541936130-f67ee905191f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Relax in a lakefront house with stunning views and crystal-clear waters.",
+        "rating": "4.4",
+        "price": "220",
+        "duration": "3",
+        "location": "Lake Tahoe",
+        "category": "Lakes"
+      },
+      {
+        "id": "6",
+        "name": "Ancient Ruins Tour",
+        "image": "https://plus.unsplash.com/premium_photo-1694475222001-b10ed72025a5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Step back in time and explore the history of ancient civilizations at these ruins.",
+        "rating": "4.9",
+        "price": "250",
+        "duration": "6",
+        "location": "Machu Picchu",
+        "category": "Historical Sites"
+      },
+      {
+        "id": "7",
+        "name": "National Park Adventure",
+        "image": "https://images.unsplash.com/photo-1698767676722-c63a27803a02?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Discover the natural beauty of this vast national park, home to diverse wildlife.",
+        "rating": "4.7",
+        "price": "170",
+        "duration": "5",
+        "location": "Yellowstone National Park",
+        "category": "National Parks"
+      },
+      {
+        "id": "8",
+        "name": "Island Escape",
+        "image": "https://images.unsplash.com/photo-1611040550149-cbd4f83d8ef7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Unwind on a peaceful island surrounded by crystal-clear waters and white sand.",
+        "rating": "4.6",
+        "price": "230",
+        "duration": "7",
+        "location": "Maldives",
+        "category": "Islands"
+      },
+      {
+        "id": "9",
+        "name": "Desert Oasis Experience",
+        "image": "https://images.unsplash.com/photo-1470364798856-7a74180378dc?q=80&w=1889&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Experience the beauty and tranquility of the desert, with luxury accommodations.",
+        "rating": "4.5",
+        "price": "190",
+        "duration": "4",
+        "location": "Sahara Desert",
+        "category": "Desert"
+      },
+      {
+        "id": "10",
+        "name": "Sunset Beach Resort",
+        "image": "https://images.unsplash.com/photo-1721617864119-611e4544ff07?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A beachfront resort offering breathtaking sunsets and luxurious accommodations.",
+        "rating": "4.6",
+        "price": "160",
+        "duration": "3",
+        "location": "Malibu, California",
+        "category": "Beaches"
+      },
+      {
+        "id": "11",
+        "name": "Alpine Mountain Lodge",
+        "image": "https://images.unsplash.com/photo-1498741507829-950538808cc0?q=80&w=1949&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A lodge nestled in the heart of the Alps, ideal for skiing and winter sports enthusiasts.",
+        "rating": "4.9",
+        "price": "320",
+        "duration": "5",
+        "location": "Swiss Alps",
+        "category": "Mountains"
+      },
+      {
+        "id": "12",
+        "name": "Tokyo Urban Experience",
+        "image": "https://images.unsplash.com/photo-1584117992567-a84ca619bb99?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Dive into the fast-paced life of Tokyo, experiencing both tradition and modernity.",
+        "rating": "4.8",
+        "price": "350",
+        "duration": "3",
+        "location": "Tokyo, Japan",
+        "category": "Cities"
+      },
+      {
+        "id": "13",
+        "name": "Amazon Rainforest Eco-Lodge",
+        "image": "https://images.unsplash.com/photo-1588837687759-11cb985d88af?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Stay in an eco-lodge deep in the Amazon, surrounded by vibrant wildlife and nature.",
+        "rating": "4.7",
+        "price": "210",
+        "duration": "6",
+        "location": "Amazon Rainforest",
+        "category": "Forests"
+      },
+      {
+        "id": "14",
+        "name": "Lake Geneva Getaway",
+        "image": "https://images.unsplash.com/photo-1439066290691-510066268af5?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A serene escape by Lake Geneva, offering water activities and scenic views.",
+        "rating": "4.5",
+        "price": "240",
+        "duration": "4",
+        "location": "Geneva, Switzerland",
+        "category": "Lakes"
+      },
+      {
+        "id": "15",
+        "name": "Pyramids of Giza Tour",
+        "image": "https://images.unsplash.com/photo-1502091094786-a83d1eaa36e7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Explore the awe-inspiring pyramids and experience the wonders of ancient Egypt.",
+        "rating": "4.9",
+        "price": "180",
+        "duration": "3",
+        "location": "Giza, Egypt",
+        "category": "Historical Sites"
+      },
+      {
+        "id": "16",
+        "name": "Grand Canyon Adventure",
+        "image": "https://images.unsplash.com/photo-1535515505622-7621ebc4fc58?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Hike through one of the world's greatest natural wonders, the Grand Canyon.",
+        "rating": "4.8",
+        "price": "270",
+        "duration": "5",
+        "location": "Arizona, USA",
+        "category": "National Parks"
+      },
+      {
+        "id": "17",
+        "name": "Bora Bora Island Resort",
+        "image": "https://images.unsplash.com/photo-1618245318763-a15156d6b23c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A luxurious island resort with overwater bungalows and turquoise lagoons.",
+        "rating": "4.9",
+        "price": "500",
+        "duration": "7",
+        "location": "Bora Bora",
+        "category": "Islands"
+      },
+      {
+        "id": "18",
+        "name": "Wadi Rum Desert Camp",
+        "image": "https://images.unsplash.com/photo-1613169620329-6785c004d900?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Stay in a desert camp and explore the stunning red dunes of Wadi Rum.",
+        "rating": "4.7",
+        "price": "190",
+        "duration": "4",
+        "location": "Wadi Rum, Jordan",
+        "category": "Desert"
+      },
+      {
+        "id": "19",
+        "name": "Santorini Sunset Villa",
+        "image": "https://images.unsplash.com/photo-1446822679794-fbd084d10491?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Watch the famous Santorini sunsets from a luxury villa overlooking the Aegean Sea.",
+        "rating": "4.6",
+        "price": "300",
+        "duration": "5",
+        "location": "Santorini, Greece",
+        "category": "Islands"
+      },
+      {
+        "id": "20",
+        "name": "Sahara Desert Glamping",
+        "image": "https://images.unsplash.com/photo-1640755668096-4f4c7b8f4410?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Experience the magic of the Sahara Desert with a luxury glamping experience.",
+        "rating": "4.5",
+        "price": "250",
+        "duration": "6",
+        "location": "Sahara Desert",
+        "category": "Desert"
+      }
+]
